@@ -6,7 +6,7 @@
 `npm install https://github.com/limingtech-front-end/se-cssNormalize --save`
 
 ###依赖###
-[normalize.css](http://necolas.github.io/normalize.css/)，安装时添加 --save参数无需手动安装依赖
+[normalize.css](http://necolas.github.io/normalize.css/)，无需手动安装依赖
 
 ###引用###
 需要安装webpack及css-loader插件进行引用
