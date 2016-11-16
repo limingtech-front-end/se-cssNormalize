@@ -1,0 +1,27 @@
+{
+  "name": "se-cssNormalize",
+  "version": "1.0.0",
+  "description": "global css normalize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limingtech-front-end/se-cssNormalize"
+  },
+  "keywords": [
+    "css",
+    "normalize",
+    "setting"
+  ],
+  "author": "littlstonee <littlstonee@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limingtech-front-end/se-cssNormalize/issues"
+  },
+  "homepage": "https://github.com/limingtech-front-end/se-cssNormalize#readme",
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  }
+}
